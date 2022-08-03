@@ -60,7 +60,7 @@
     "@marblejs/middleware-logger": "2.1.0",
     "@types/faker": "^4.1.4",
     "@types/joi": "^13.6.0",
-    "@types/mongoose": "^5.2.12",
+    "@types/mongoose": "^5.11.96",
     "@types/node": "^10.1.2",
     "@types/uuid": "^3.4.4",
     "chalk": "^2.4.1",
