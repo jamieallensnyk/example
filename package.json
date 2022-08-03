@@ -61,7 +61,7 @@
     "@types/faker": "^4.1.4",
     "@types/joi": "^13.6.0",
     "@types/mongoose": "^5.2.12",
-    "@types/node": "^10.1.2",
+    "@types/node": "^10.17.60",
     "@types/uuid": "^3.4.4",
     "chalk": "^2.4.1",
     "faker": "^4.1.0",
