@@ -53,7 +53,7 @@
   "homepage": "https://github.com/marblejs/marble-example#readme",
   "dependencies": {
     "@marblejs/core": "2.1.0",
-    "@marblejs/middleware-body": "2.1.0",
+    "@marblejs/middleware-body": "2.3.1",
     "@marblejs/middleware-cors": "2.1.0",
     "@marblejs/middleware-io": "2.1.0",
     "@marblejs/middleware-jwt": "2.1.0",
