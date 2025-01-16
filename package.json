@@ -65,11 +65,11 @@
     "@types/uuid": "^3.4.4",
     "chalk": "^2.4.1",
     "faker": "^4.1.0",
-    "mongoose": "^5.2.14",
+    "mongoose": "^6.13.6",
     "reflect-metadata": "^0.1.12",
     "rxjs": "~6.3.3",
     "tsconfig-paths": "^3.7.0",
-    "typegoose": "^5.2.1",
+    "typegoose": "^5.9.1",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
