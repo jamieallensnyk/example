@@ -68,7 +68,7 @@
     "mongoose": "^5.2.14",
     "reflect-metadata": "^0.1.12",
     "rxjs": "~6.3.3",
-    "tsconfig-paths": "^3.7.0",
+    "tsconfig-paths": "^4.0.0",
     "typegoose": "^5.2.1",
     "uuid": "^3.3.2"
   },
